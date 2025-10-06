@@ -12,7 +12,7 @@ We are excited to introduce Hunyuan-Vision-1.5, a mamba-transformer hybrid archi
 ## Highlights
 ⚙️ **Hybrid Architecture:** With a novel mamba-transformer hybird architecture, Hunyuan-Vision-1.5 achieves state-of-the-art performance on multimodal understanding tasks while delivering highly efficient inference. 
 
-🧩 **Advanced "Thinking-with-Image" Reasoning:** Beyond strong and robust multimodal reasoning, Hunyuan-Vision-1.5 offers more advanced thinking-with-image capabilities that support deeper multimodal understanding and reasoning with a novel visual reflection paradigm.
+🧩 **Advanced "Thinking-on-Image" Reasoning:** Beyond strong and robust multimodal reasoning, Hunyuan-Vision-1.5 offers more advanced thinking-with-image capabilities that support deeper multimodal understanding and reasoning with a novel visual reflection paradigm.
 
 🌐 **Versatility:** Hunyuan-Vision-1.5 excels across various tasks from image and video understanding to more advanced tasks such as visual reasoning and 3D spatial comprehension. It also offers a seamless, multilingual user experience across real-world applications, ensuring smooth performance across languages and diverse task contexts.
 
@@ -22,7 +22,7 @@ We will open source Hunyuan-Vision-1.5. The model and technical report will be r
 
 ## Quickstart
 
-Hunyuan-Vision-1.5 is now avaiable at [Tencent Cloud](https://cloud.tencent.com/document/product/1729/104753). You are welcome to try our most advanced model right now.
+Hunyuan-Vision-1.5 is now available at [Tencent Cloud](https://cloud.tencent.com/document/product/1729/104753). You are welcome to try our most advanced model right now. ("Thinking on Images" mode will be available later)
 
 
 ```python
@@ -70,7 +70,7 @@ We aim to offer a seamless, multilingual user experience across real-world appli
 
 ### Advanced Multimodal Thinking
 
-Hunyuan-Vision-1.5 offers more advanced thinking-with-image capabilities that support deeper multimodal understanding and reasoning with a "thinking with images" paradigm. Our model is optimized to use various extra tools to help the thinking process by modifying input images (crop/zoom-in, drawing points/lines/boxes, etc.) or acquiring additional knowledge via web search.
+Hunyuan-Vision-1.5 offers more advanced thinking-with-image capabilities that support deeper multimodal understanding and reasoning with a "thinking on images" paradigm. Our model is optimized to use various extra tools to help the thinking process by modifying input images (crop/zoom-in, drawing points/lines/boxes, etc.) or acquiring additional knowledge via web search.
 
 <div style="max-height:500px; overflow-y:auto;">
   <img src="./assets/demo-thinking-with-images.jpg" alt="Long Image">
