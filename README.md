@@ -32,7 +32,8 @@ We are excited to introduce Hunyuan-Vision-1.5, a mamba-transformer hybrid archi
 
 - Hunyuan-Vision-1.5 (vision language model)
   - [ ] Hunyuan-Vision-1.5 Technical Report
-  - [ ] Hunyuan-Vision-1.5 Checkpoints
+  - [ ] Hunyuan-Vision-1.5 Checkpoints (A56B, 4B)
+  - [ ] Hunyuan-ViT-V1 Checkpoints
   - [ ] TRT Inference Support
   - [ ] "Thinking on Images" Support
   - [ ] VLLM Support
