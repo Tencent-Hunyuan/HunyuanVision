@@ -1,15 +1,12 @@
 <p align="center">
 
- <img src="https://dscache.tencent-cloud.cn/upload/uploader/hunyuan-64b418fd052c033b228e04bc77bbc4b54fd7f5bc.png" width="200"/> <br>
+<img src="./assets/HunyuanVisionLogoV3.png" width="300" alt="Hunyuan Vision Logo">
 
 </p>
 
 
-
 <p align="center">
-
 📑🤗 Paper & Weights are coming &nbsp&nbsp | &nbsp&nbsp 💻 <a href="https://cloud.tencent.com/document/product/1729/104753">API</a>&nbsp&nbsp | &nbsp&nbsp 💭 <a href="https://lmarena.ai/?mode=direct">Direct Chat @ LMArena</a>&nbsp&nbsp
-
 </p>
 
 
@@ -20,26 +17,35 @@ We are excited to introduce Hunyuan-Vision-1.5, a mamba-transformer hybrid archi
 
 
 
+## News
+
+- **October 6, 2025**: **hunyuan-vision-1.5-thinking** <a href="https://x.com/arena/status/1975257734053503260">ranked 3rd on LmArena</a>, the best performing model in China.
+  
+<div style="max-height:50px; overflow-y:auto;">
+
+  <img src="./assets/hunyuan-vision-lmarena.jfif" width="600" alt="LmArena Vision">
+
+</div>
+
+
+## 📑 Open-source Plan
+
+- Hunyuan-Vision-1.5 (vision language model)
+  - [ ] Hunyuan-Vision-1.5 Technical Report
+  - [ ] Hunyuan-Vision-1.5 Checkpoints
+  - [ ] TRT Inference Support
+  - [ ] "Thinking on Images" Support
+  - [ ] VLLM Support
+  
 ## Highlights
 
 ⚙️ **Hybrid Architecture:** With a novel mamba-transformer hybrid architecture, Hunyuan-Vision-1.5 achieves state-of-the-art performance on multimodal understanding tasks while delivering highly efficient inference. 
 
-
-
 🧩 **Advanced "Thinking-on-Image" Reasoning:** Beyond strong and robust multimodal reasoning, Hunyuan-Vision-1.5 offers more advanced thinking-with-image capabilities that support deeper multimodal understanding and reasoning with a novel visual reflection paradigm.
-
-
 
 🌐 **Versatility:** Hunyuan-Vision-1.5 excels across various tasks from image and video understanding to more advanced tasks such as visual reasoning and 3D spatial comprehension. It also offers a seamless, multilingual user experience across real-world applications, ensuring smooth performance across languages and diverse task contexts.
 
-
-
-
-
 We will open-source Hunyuan-Vision-1.5. The model and technical report will be released in late October. Stay tuned for more updates! 
-
-
-
 
 
 ## Quickstart
@@ -49,14 +55,9 @@ We will open-source Hunyuan-Vision-1.5. The model and technical report will be r
 Hunyuan-Vision-1.5 is now available at [Tencent Cloud](https://cloud.tencent.com/document/product/1729/104753). You are welcome to try our most advanced model right now. ("Thinking on Images" mode will be available later)
 
 
-
-
-
 ```python
 
 from openai import OpenAI
-
-
 
 # set your Tencent Cloud API key here
 
