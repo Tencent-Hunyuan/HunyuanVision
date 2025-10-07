@@ -8,7 +8,7 @@
 
 <p align="center">
 
-📑🤗 Paper & Weights are coming</a>&nbsp&nbsp | &nbsp&nbsp 💻 <a href="https://cloud.tencent.com/document/product/1729/104753">API</a>&nbsp&nbsp | &nbsp&nbsp 💭 <a href="https://lmarena.ai/?mode=direct">Direct Chat @ LMArena</a>&nbsp&nbsp
+📑🤗 Paper & Weights are coming &nbsp&nbsp | &nbsp&nbsp 💻 <a href="https://cloud.tencent.com/document/product/1729/104753">API</a>&nbsp&nbsp | &nbsp&nbsp 💭 <a href="https://lmarena.ai/?mode=direct">Direct Chat @ LMArena</a>&nbsp&nbsp
 
 </p>
 
