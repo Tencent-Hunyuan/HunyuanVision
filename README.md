@@ -96,7 +96,7 @@ print(completion.choices[0])
 
 
 
-Our model is also available on [LMArena Direct Chat](https://lmarena.ai/?mode=direct). You can try it out by selecting `hunyuan-t1-vision-20250916` from the model list in Direct Chat. 
+Our model is also available on [LMArena Direct Chat](https://lmarena.ai/?mode=direct). You can try it out by selecting `hunyuan-vision-1.5-thinking` from the model list in Direct Chat. 
 
 
 
