@@ -1,8 +1,3 @@
-<p align="center">
-
-<img src="./assets/HunyuanVisionLogoV3.png" width="300" alt="Hunyuan Vision Logo">
-
-</p>
 
 
 <p align="center">
